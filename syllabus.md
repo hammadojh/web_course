@@ -4,10 +4,12 @@
 This course is designed to provide you with the conceptual and practical knowledge and skills required to develop web applications.
 
 ### Class Details
-| Section | Time            | Days | Venue |
-|---------|-----------------|------|-------|
-| 02      | 9:30 – 10:45    | MW   |22-231 |
-| 03      | 11:00 – 12:15   | MW   |22-231 |
+| Section | Time            | Days | Venue | Instructor  |
+|---------|-----------------|------|--------|------------|
+| 01      | 8:00 – 9:15     | MW   | 22-231 | Mojeed     |
+| 02      | 9:30 – 10:45    | MW   | 22-231 | Omar       |
+| 03      | 11:00 – 12:15   | MW   | 22-231 | Omar       |
+| 04      | 11:00 – 12:15   | MW   | 07-137 | Khadija    |
 
 ### Instructors
 | Professor           | Office | Email                    | Office Hours   |
@@ -17,19 +19,18 @@ This course is designed to provide you with the conceptual and practical knowled
 | Dr. Khadija Alsafwan| xx-xxx | xxxxxxxxxxxxxxxxxxx      |      TBA       |
 
 ### How You Will Be Assessed
-- **Attendance:** 3%
-- **Participation:** 7%
-- **Quizzes:** 8%
-- **Assignment:** 12%
+- **Attendance:** 5%
+- **Participation:** 10%
+- **Quizzes:** 10%
 - **Mid-term:** 20%
-- **Project:** 25%
+- **Project:** 30%
 - **Final:** 25%
 
 ### How to Get the Most Out of This Class
 - Complete the reading assignments before coming to class.
 - Always be on time (for class and assignment deadlines).
 - Practice, practice, and practice.
-- Pay attention to Blackboard.
+- Pay attention to Blackboard & This repo.
 
 ### Course Outcomes
 After completing this course, you should be able to:
