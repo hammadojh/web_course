@@ -5,10 +5,8 @@ Welcome to the official repository for **SWE 363: Web Engineering & Development*
 ## Table of Contents
 - [Course Overview](#course-overview)
 - [Syllabus](#syllabus)
-- [Lecture Slides](#lecture-slides)
-- [Activities](#activities)
-- [Videos](#videos)
-<!-- - [Companion Website](#companion-website) -->
+- [Material](#lecture-slides)
+- [Project](#project)
 - [How to Use This Repository](#how-to-use-this-repository)
 
 ## Course Overview
@@ -17,17 +15,13 @@ Welcome to the official repository for **SWE 363: Web Engineering & Development*
 ## Syllabus
 The full course syllabus, including learning objectives, course content, assessment methods, and required materials, is available [here](./syllabus.md).
 
-## Lecture Slides
-Lecture slides for each week will be available in the `slides/` directory. These slides cover the key concepts discussed in class and are essential for your study and review.
+## Material
+We will be using "Zybook" as the main resource. There are no slides for this class. Please use the following instructions to join zybook:
+1. Click any ZyBooks assignment link in Blackboard.
+2. Subscribe
 
-## Activities
-Course activities, including assignments, projects, and in-class exercises, are stored in the `activities/` directory. Please refer to the syllabus for deadlines and submission guidelines.
-
-## Videos
-Recorded lectures and supplementary videos can be found in the `videos/` directory. These videos are a great resource for revisiting lecture content or catching up on any missed classes.
-
-## Companion Website
-The companion website for this course is available at (Soon..). It contains additional resources, discussion forums, and other interactive content to support your learning.
+## Project
+A major part of this course is a  project that you (witgh your team) are expected to submit before the end of this semester. The project description including phases, requirements and deliverables are included in the [Project description](./term_project.md).
 
 ## How to Use This Repository
 - **Clone the Repository**: Use `git clone [repository link]` to download the repository to your local machine.
