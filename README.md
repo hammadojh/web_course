@@ -7,6 +7,8 @@ Welcome to the official repository for **SWE 363: Web Engineering & Development*
 - [Syllabus](#syllabus)
 - [Material](#lecture-slides)
 - [Project](#project)
+- [Useful links](#links)
+- [Demos(Soon)](#demos)
 - [How to Use This Repository](#how-to-use-this-repository)
 
 ## Course Overview
@@ -22,6 +24,12 @@ We will be using "Zybook" as the main resource. There are no slides for this cla
 
 ## Project
 A major part of this course is a  project that you (witgh your team) are expected to submit before the end of this semester. The project description including phases, requirements and deliverables are available [here](./term_project.md).
+
+## Useful links
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [CodeCademy](https://www.codecademy.com/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [W3Schools](https://www.w3schools.com/)
 
 ## How to Use This Repository
 - **Clone the Repository**: Use `git clone [repository link]` to download the repository to your local machine.
