@@ -21,7 +21,7 @@ We will be using "Zybook" as the main resource. There are no slides for this cla
 2. Subscribe
 
 ## Project
-A major part of this course is a  project that you (witgh your team) are expected to submit before the end of this semester. The project description including phases, requirements and deliverables are included in the [Project description](./term_project.md).
+A major part of this course is a  project that you (witgh your team) are expected to submit before the end of this semester. The project description including phases, requirements and deliverables are available [here](./term_project.md).
 
 ## How to Use This Repository
 - **Clone the Repository**: Use `git clone [repository link]` to download the repository to your local machine.
