@@ -53,10 +53,8 @@ After completing this course, you should be able to:
 
 ### Reference Materials
 - www.zybooks.com
-- Course Handouts
-- Lectures
-- Reading Assignments
-- Websites referred to during class
+- Resources referred to during class
+- Demos presented during class 
 
 ### Course Policies & Guidelines
 - **Attendance:** Regular attendance is a university requirement. Attendance will be checked at the beginning of each class. Two late arrivals will be considered as one absence. More than 6 unexcused absences will result in a DN grade.
