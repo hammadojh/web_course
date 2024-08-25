@@ -16,7 +16,7 @@ This course is designed to provide you with the conceptual and practical knowled
 |---------------------|--------|--------------------------|----------------|
 | Dr. Omar Hammad     | 22-329 | omarjh@kfupm.edu.sa      |      TBA       |
 | Dr. Mojeed Oyedeji  | xx-xxx | xxxxxxxxxxxxxxxxxxx      |      TBA       |
-| Dr. Khadija Alsafwan| xx-xxx | xxxxxxxxxxxxxxxxxxx      |      TBA       |
+| Dr. Khadijah Al Safwan| 22-330-1 | khadijah.safwan@kfupm.edu.sa |      TBA       |
 
 ### How You Will Be Assessed
 - **Attendance:** 5%
