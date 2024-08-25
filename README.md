@@ -1,14 +1,13 @@
 # SWE 363: Web Engineering & Development
 
-Welcome to the official repository for **SWE 363: Web Engineering & Development**. This repository contains all the resources you'll need to succeed in the course, including the syllabus, lecture slides, activities, videos, papers, and more.
+Welcome to the official repository for **SWE 363: Web Engineering & Development**. This repository contains all the resources you'll need to succeed in the course, including the syllabus, link to material, project description and some useful links.
 
 ## Table of Contents
 - [Course Overview](#course-overview)
 - [Syllabus](#syllabus)
-- [Material](#lecture-slides)
+- [Material](#material)
 - [Project](#project)
 - [Useful links](#links)
-- [Demos(Soon)](#demos)
 - [How to Use This Repository](#how-to-use-this-repository)
 
 ## Course Overview
