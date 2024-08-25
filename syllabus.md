@@ -14,8 +14,8 @@ This course is designed to provide you with the conceptual and practical knowled
 ### Instructors
 | Professor           | Office | Email                    | Office Hours   |
 |---------------------|--------|--------------------------|----------------|
-| Dr. Omar Hammad     | 22-329 | omarjh@kfupm.edu.sa      |      TBA       |
-| Dr. Mojeed Oyedeji  | xx-xxx | xxxxxxxxxxxxxxxxxxx      |      TBA       |
+| Dr. Omar Hammad     | 22-329 | omarjh@kfupm.edu.sa      |      MW 12:30-1:30       |
+| Dr. Mojeed Oyedeji  | 22-147 | mojeed.oyedeji@kfupm.edu.sa      |      Th 2:00-4:00       |
 | Dr. Khadijah Al Safwan| 22-330-1 | khadijah.safwan@kfupm.edu.sa |      TBA       |
 
 ### How You Will Be Assessed
@@ -27,7 +27,6 @@ This course is designed to provide you with the conceptual and practical knowled
 - **Final:** 25%
 
 ### How to Get the Most Out of This Class
-- Complete the reading assignments before coming to class.
 - Always be on time (for class and assignment deadlines).
 - Practice, practice, and practice.
 - Pay attention to Blackboard & This repo.
@@ -40,15 +39,17 @@ After completing this course, you should be able to:
 4. Build and publish cross-platform, data-driven, and dynamic web applications.
 5. Incorporate best practices to boost the sustainability, usability, and accessibility of web applications.
 
-### Tentative Lectures Plan
-1. Internet Basics for Web Applications
-2. Markup Languages and Static Web Pages
-3. Cascading Style Sheets and UI Design
-4. Client-Side Programming
-5. Web Services
-6. Server-Side Programming
-7. Databases
-8. Web Security
+### Tentative Lectures Plan (Based on Zybooks Sections)
+|Week|Topic|
+|-----|------|
+| 1  | Introduction to Web Programming |
+| 2  | HTML Fundamentals + More HTML | 
+| 3  | CSS Fundamentals + More CSS |
+| 4  | JavaScript Fundamentals |
+| 5  | JavaScript in the Browser|
+| 6  | More JavaScript + Mobile Web Development |
+| 7,8,9 | React |
+| 10,11,12 | Node.js |
 
 ### Reference Materials
 - www.zybooks.com
