@@ -23,7 +23,7 @@ This project will be conducted in groups comprising 5 students. Each group is ta
 ## Project Phases Details
 
 ### 1. Team Formation
-- Create a new group in blackborad common section with all team members.
+- Join a group in blackborad common section with all team members.
 - Fill the team contract form after you create a group in BB (https://forms.office.com/r/2LbQWckmv8) 
 - All Team members should be in the same section. 
 - Each team should consist of 5 members. 
