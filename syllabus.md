@@ -9,14 +9,14 @@ This course is designed to provide you with the conceptual and practical knowled
 | 01      | 8:00 – 9:15     | MW   | 22-231 | Mojeed     |
 | 02      | 9:30 – 10:45    | MW   | 22-231 | Omar       |
 | 03      | 11:00 – 12:15   | MW   | 22-231 | Omar       |
-| 04      | 11:00 – 12:15   | MW   | 07-137 | Khadija    |
+| 04      | 11:00 – 12:15   | MW   | 22-125 | Khadijah    |
 
 ### Instructors
 | Professor           | Office | Email                    | Office Hours   |
 |---------------------|--------|--------------------------|----------------|
 | Dr. Omar Hammad     | 22-329 | omarjh@kfupm.edu.sa      |      MW 12:30-1:30       |
 | Dr. Mojeed Oyedeji  | 22-147 | mojeed.oyedeji@kfupm.edu.sa      |      Th 2:00-4:00       |
-| Dr. Khadijah Al Safwan| 22-330-1 | khadijah.safwan@kfupm.edu.sa |      TBA       |
+| Dr. Khadijah Al Safwan| 22-330-1 | khadijah.safwan@kfupm.edu.sa |      W 1:00-3:00       |
 
 ### How You Will Be Assessed
 - **Attendance:** 5%
