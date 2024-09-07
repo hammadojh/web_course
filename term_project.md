@@ -38,6 +38,27 @@ This project will be conducted in groups comprising 5 students. Each group is ta
     - Users of the system
     - Functionalities for each user type
     - A storyboard sketch of a real scenario where a real person uses your system in a real context.
+   
+#### FAQs
+
+- **What is an acceptable scope for the project, in terms of ideas?**
+Something useful that covers the basic web concepts and requires ~100 hours to complete (collectively by all members)
+
+- **How many categories of users are required?** It needs to have at least two user categories.
+
+- **What is the range of functionalities expected? Is there a specific number of features/functionalities required?** 
+- At least 5 functionalities.
+
+- **Can you provide an example of what the wireframes should look like?**
+
+There is no one way to do wireframes, but if they google wireframes, they will find various approaches. In general, a good wireframe should:
+
+1. Visually represent the structure of a page or screen without focusing on the final look.
+2. Include the placement of key elements, such as headers, buttons, forms, images, and navigation menus.
+3. Keep things simple by focusing on functionality and layout rather than design details like color or fonts.
+4. Provide an idea of how the user interacts with the interface, showing the path they will follow.
+5. Label all elements clearly so that both designers and developers understand what each element is.
+
 
 ### 3. Requirements
 - Submit a PDF file that includes the following:
