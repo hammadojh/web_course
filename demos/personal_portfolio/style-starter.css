@@ -1,0 +1,151 @@
+
+/* Global Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Header Styles */
+header {
+    background-color: #2c3e50;
+    color: #ecf0f1;
+    padding: 1rem 0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+header .container {
+    /* TODO: Use flexbox to align items and distribute space */
+    display: ;
+    justify-content: ;
+    align-items: ;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    /* TODO: Use flexbox to align navigation items */
+    display: ;
+    justify-content: ;
+}
+
+nav ul li {
+    /* TODO: Add margin to separate navigation items */
+    margin-left: ;
+}
+
+nav ul li a {
+    color: #ecf0f1;
+    text-decoration: none;
+    font-weight: bold;
+    /* TODO: Add a transition for smooth color change on hover */
+    transition: ;
+}
+
+nav ul li a:hover {
+    /* TODO: Change the color on hover */
+    color: ;
+}
+
+/* Section Styles */
+section {
+    background-color: #fff;
+    /* TODO: Use margin and padding to create space around sections */
+    margin: ;
+    padding: ;
+    border-radius: 5px;
+    /* TODO: Add a box shadow for depth */
+    box-shadow: ;
+}
+
+h2 {
+    /* TODO: Set the color of section headings */
+    color: ;
+    /* TODO: Add a bottom border to section headings */
+    border-bottom: ;
+    padding-bottom: 0.5rem;
+}
+
+/* Projects Section */
+#projects {
+    overflow-x: auto;
+    white-space: nowrap;
+    padding-bottom: 1rem;
+}
+
+.project-container {
+    /* TODO: Use flexbox to create a horizontal layout */
+    display: ;
+    gap: 1rem;
+}
+
+.project {
+    flex: 0 0 auto;
+    width: 300px;
+    /* TODO: Set the background color of project cards */
+    background-color: ;
+    /* TODO: Add padding inside project cards */
+    padding: ;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    white-space: normal;
+}
+
+/* Skills Section */
+#skills ul {
+    /* TODO: Use flexbox to create a wrap layout for skills */
+    display: ;
+    flex-wrap: ;
+    gap: 1rem;
+    padding: 0;
+}
+
+#skills li {
+    /* TODO: Style the skill items with background color, text color, and padding */
+    background-color: ;
+    color: ;
+    padding: ;
+    border-radius: 20px;
+    list-style-type: none;
+}
+
+/* Contact Section */
+#contact a {
+    /* TODO: Style the contact links */
+    color: ;
+    text-decoration: ;
+    font-weight: ;
+}
+
+#contact a:hover {
+    /* TODO: Add an underline on hover */
+    text-decoration: ;
+}
+
+/* Footer Styles */
+footer {
+    /* TODO: Style the footer with background color, text color, and padding */
+    background-color: ;
+    color: ;
+    text-align: center;
+    padding: ;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
