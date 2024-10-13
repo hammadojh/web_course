@@ -14,11 +14,11 @@ This project will be conducted in groups comprising 5 students. Each group is ta
 | 2                  | Proposal         | 2      | Week 3 | Submit Slides (.ppt)                   |
 | 3                  | Requirements     | 3      | Week 4 | Submit Slides (.ppt)                   |
 | 4                  | UI Design        | 3      | Week 5 | Submit Figma link                      |
-| 5                  | Front_End        | 7      | Week 8 | Push to Github + submit github repo    |
-| 6                  | Back_End         | 7      | Week 11| Push to Github                         |
-| 7                  | Deployment       | 1      | Week 12| Submit Domain link                     |
-| 8                  | Demo             | 3      | Week 13| Submit Youtube link                    |
-| 9                  | Final Report     | 3      | Week 14| Submit Slides (.ppt)                   |
+| 5                  | Front_End        | 7      | Week 11 | Push to Github + submit github repo    |
+| 6                  | Back_End         | 7      | Week 13| Push to Github                         |
+| 7                  | Deployment       | 1      | Week 14| Submit Domain link                     |
+| 8                  | Demo             | 3      | Week 15| Submit Youtube link                    |
+| 9                  | Final Report     | 3      | Week 16| Submit Slides (.ppt)                   |
 
 ## Project Phases Details
 
