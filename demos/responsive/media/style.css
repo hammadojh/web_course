@@ -1,0 +1,163 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #232f3e;
+    color: white;
+    padding: 10px;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+.search-bar {
+    flex-grow: 1;
+    margin: 0 20px;
+}
+.search-bar input {
+    width: 100%;
+    padding: 5px;
+}
+.cart {
+    font-size: 18px;
+}
+main {
+    padding: 20px;
+}
+.product {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+.product img {
+    max-width: 100%;
+    height: auto;
+}
+.product-grid {
+    display: flex;
+    flex-direction: column;
+    flex-wrap:nowrap;
+    overflow-x: auto;
+    gap: 20px;
+}
+.product {
+    flex-basis: calc(25% - 20px);
+    margin-bottom: 20px;
+}
+
+.tab-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f0f0f0;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.tab-bar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.tab-bar li {
+    flex: 1;
+    text-align: center;
+}
+
+.tab-bar a {
+    text-decoration: none;
+    color: #333;
+    display: block;
+    padding: 10px;
+}
+
+.tab-bar a:hover {
+    background-color: #ddd;
+}
+
+.carousel {
+    width: 100%;
+    overflow-x: hidden;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.carousel-container {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* Internet Explorer 10+ */
+}
+
+.carousel-container::-webkit-scrollbar {
+    display: none; /* WebKit */
+}
+
+.carousel-slide {
+    flex: 0 0 100%;
+    scroll-snap-align: start;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.carousel-slide img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.carousel-prev,
+.carousel-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.carousel-prev {
+    left: 10px;
+}
+
+.carousel-next {
+    right: 10px;
+}
+
+
+
+/* @media (min-width: 768px) {
+    .product-grid {
+        flex-direction: row;
+    }
+    .tab-bar {
+        display: none;
+    }
+    .carousel {
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    .carousel-container {
+        width: 100%;
+    } 
+    
+} */

@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AmazonLike - Your Online Store</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <!-- Navbar: dark theme, expands on large screens -->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <!-- Container for navbar content with fluid width -->
+            <div class="container-fluid">
+                <!-- Brand link -->
+                <a class="navbar-brand" href="#">AmazonLike</a>
+                <!-- Flexbox container for search form -->
+                <form class="d-flex flex-grow-1 mx-3">
+                    <!-- Form control for search input with right margin -->
+                    <input class="form-control me-2" type="search" placeholder="Search..." aria-label="Search">
+                </form>
+                <!-- Light outlined button for cart -->
+                <button class="btn btn-outline-light">🛒 Cart</button>
+            </div>
+        </nav>
+    </header>
+    <!-- Main content with container and top margin -->
+    <main class="container mt-4">
+        <!-- Heading with bottom margin -->
+        <h1 class="mb-4">Featured Products</h1>
+        <!-- Grid row with responsive columns and gutters -->
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
+            <!-- Column -->
+            <div class="col">
+                <!-- Card with full height -->
+                <div class="card h-100">
+                    <!-- Card image -->
+                    <img src="https://via.placeholder.com/150" class="card-img-top" alt="Product 1">
+                    <!-- Card body -->
+                    <div class="card-body">
+                        <!-- Card title -->
+                        <h5 class="card-title">Product 1</h5>
+                        <!-- Card text -->
+                        <p class="card-text">$19.99</p>
+                        <!-- Primary button -->
+                        <button class="btn btn-primary">Add to Cart</button>
+                    </div>
+                </div>
+            </div>
+            <!-- Repeat for other products -->
+            <div class="col">
+                <div class="card h-100">
+                    <img src="https://via.placeholder.com/150" class="card-img-top" alt="Product 2">
+                    <div class="card-body">
+                        <h5 class="card-title">Product 2</h5>
+                        <p class="card-text">$24.99</p>
+                        <button class="btn btn-primary">Add to Cart</button>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="https://via.placeholder.com/150" class="card-img-top" alt="Product 3">
+                    <div class="card-body">
+                        <h5 class="card-title">Product 3</h5>
+                        <p class="card-text">$14.99</p>
+                        <button class="btn btn-primary">Add to Cart</button>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="https://via.placeholder.com/150" class="card-img-top" alt="Product 4">
+                    <div class="card-body">
+                        <h5 class="card-title">Product 4</h5>
+                        <p class="card-text">$29.99</p>
+                        <button class="btn btn-primary">Add to Cart</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Section with top margin -->
+        <section class="mt-5">
+            <!-- Heading with bottom margin -->
+            <h2 class="mb-4">Featured Deals</h2>
+            <!-- Carousel -->
+            <div id="featuredDeals" class="carousel slide" data-bs-ride="carousel">
+                <!-- Carousel inner container -->
+                <div class="carousel-inner">
+                    <!-- Active carousel item -->
+                    <div class="carousel-item active">
+                        <!-- Full width image -->
+                        <img src="https://via.placeholder.com/800x400" class="d-block w-100" alt="Deal 1">
+                        <!-- Caption hidden on small screens, visible from medium screens up -->
+                        <div class="carousel-caption d-none d-md-block">
+                            <h3>Special Offer 1</h3>
+                            <p>Save 20% on selected items</p>
+                        </div>
+                    </div>
+                    <!-- Repeat for other carousel items -->
+                    <div class="carousel-item">
+                        <img src="https://via.placeholder.com/800x400" class="d-block w-100" alt="Deal 2">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h3>Flash Sale</h3>
+                            <p>24-hour deals on electronics</p>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="https://via.placeholder.com/800x400" class="d-block w-100" alt="Deal 3">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h3>New Arrivals</h3>
+                            <p>Check out our latest products</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Carousel control buttons -->
+                <button class="carousel-control-prev" type="button" data-bs-target="#featuredDeals" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#featuredDeals" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+        </section>
+    </main>
+    <!-- Fixed bottom navbar, visible only on small screens -->
+    <nav class="navbar fixed-bottom navbar-light bg-light d-block d-md-none">
+        <!-- Fluid container -->
+        <div class="container-fluid">
+            <!-- Navbar with flexbox for even spacing -->
+            <ul class="navbar-nav flex-row justify-content-between w-100">
+                <li class="nav-item">
+                    <a class="nav-link" href="#home">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#products">Products</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#deals">Deals</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#account">Account</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <!-- Footer with light background, centered text on small screens, left-aligned on large screens -->
+    <footer class="bg-light text-center text-lg-start mt-4">
+        <!-- Centered text with padding -->
+        <div class="text-center p-3">
+            &copy; 2023 AmazonLike. All rights reserved.
+        </div>
+    </footer>
+    <!-- Bootstrap JS bundle -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
