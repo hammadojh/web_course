@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Todo List</title>
+    <link rel="stylesheet" href="../todoStyle.css">
+</head>
+<body>
+    <h1>Simple Todo List</h1>
+    <form id="todo-form">
+        <input type="text" id="todo-input" placeholder="Enter a new task" required>
+        <button type="submit">Add</button>
+    </form>
+    <ul id="todo-list"></ul>
+    
+    <div id="todo-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2 id="modal-title"></h2>
+            <p id="modal-description"></p>
+        </div>
+    </div>
+
+    <script>
+        const form = document.getElementById('todo-form');
+        const input = document.getElementById('todo-input');
+        const todoList = document.getElementById('todo-list');
+        const modal = document.getElementById('todo-modal');
+        const modalTitle = document.getElementById('modal-title');
+        const modalDescription = document.getElementById('modal-description');
+        const closeModal = document.querySelector('.close');
+
+        const predefinedTasks = [
+            'Buy groceries',
+            'Clean the house',
+            'Walk the dog',
+            'Pay bills',
+            'Read a book'
+        ];
+
+        // Add predefined tasks to the list
+        predefinedTasks.forEach(task => {
+            addTodo(task);
+        });
+
+        form.addEventListener('submit', function(e) {
+            e.preventDefault();
+            addTodo(input.value);
+            input.value = '';
+        });
+
+        function addTodo(taskText) {
+            if (taskText.trim() === '') return;
+
+            const li = document.createElement('li');
+            li.innerHTML = `
+                <span>${taskText}</span>
+                <button class="delete-btn">Delete</button>
+            `;
+
+            li.querySelector('.delete-btn').addEventListener('click', function(e) {
+                e.stopPropagation();
+                li.remove();
+            });
+
+            li.addEventListener('click', function() {
+                showModal(taskText);
+            });
+
+            todoList.appendChild(li);
+        }
+
+        function showModal(taskText) {
+            modalTitle.textContent = taskText;
+            modalDescription.textContent = `Details for task: ${taskText}`;
+            modal.style.display = 'block';
+        }
+
+        closeModal.addEventListener('click', function() {
+            modal.style.display = 'none';
+        });
+
+        window.addEventListener('click', function(event) {
+            if (event.target === modal) {
+                modal.style.display = 'none';
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Todo List</title>
+    <link rel="stylesheet" href="../todoStyle.css">
+    <script src="https://unpkg.com/react@17/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+</head>
+<body>
+    <div id="root"></div>
+
+    <script type="text/babel">
+
+        const { useState } = React;
+
+        const predefinedTasks = [
+            'Buy groceries',
+            'Clean the house',
+            'Walk the dog',
+            'Pay bills',
+            'Read a book'
+        ];
+
+        // Todo App 
+
+        function TodoApp(){
+            return <h1> Todo App </h1>
+        }
+
+        // continue here 
+        
+
+        ReactDOM.render(<TodoApp />, document.getElementById('root'));
+        </script>
+</body>
+</html>
