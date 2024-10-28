@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,10 +10,17 @@
     <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
     <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
 </head>
+
 <body>
     <div id="root"></div>
 
     <script type="text/babel">
+
+
+        // add the tasks dynamically
+        // Implement adding a todo task 
+        // show the details of the todo task
+        // delete a task when it is clicked 
 
         const { useState } = React;
 
@@ -26,14 +34,57 @@
 
         // Todo App 
 
-        function TodoApp(){
-            return <h1> Todo App </h1>
+        function TodoApp() {
+
+            const [taskList, setTaskList] = useState(predefinedTasks)
+
+            return (
+                <div>
+                    <h1> Todo App </h1>
+                    <AddForm />
+                    <TodoList taskList={taskList} />
+                </div >
+            )
+
+        }
+
+        function AddForm() {
+            return (
+                <form id="todo-form">
+                    <input
+                        type="text"
+                        id="todo-input"
+                        placeholder="Enter a new task"
+                        required />
+                    <button
+                        type="submit">
+                        Add
+                    </button>
+                </form>
+            )
+        }
+
+        function TodoItem({ task }) {
+            return (
+                <li>
+                    <span>{task}</span>
+                    <button class="delete-btn">Delete</button>
+                </li>
+            )
+        }
+
+        function TodoList({ taskList }) {
+            return (
+                <ul id="todo-list">
+                </ul>
+            )
         }
 
         // continue here 
-        
+
 
         ReactDOM.render(<TodoApp />, document.getElementById('root'));
-        </script>
+    </script>
 </body>
+
 </html>

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,10 +10,12 @@
     <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
     <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
 </head>
+
 <body>
     <div id="root"></div>
 
     <script type="text/babel">
+
         const { useState } = React;
 
         const predefinedTasks = [
@@ -88,17 +91,17 @@
             return (
                 <div>
                     <h1>Simple Todo List</h1>
-                <form id="todo-form" onSubmit={handleSubmit}>
-                    <input
-                        type="text"
-                        id="todo-input"
-                        placeholder="Enter a new task"
-                        required
-                        value={inputValue}
-                        onChange={(e) => setInputValue(e.target.value)}
-                    />
-                    <button type="submit">Add</button>
-                </form>
+                    <form id="todo-form" onSubmit={handleSubmit}>
+                        <input
+                            type="text"
+                            id="todo-input"
+                            placeholder="Enter a new task"
+                            required
+                            value={inputValue}
+                            onChange={(e) => setInputValue(e.target.value)}
+                        />
+                        <button type="submit">Add</button>
+                    </form>
                     <TodoList
                         todos={todos}
                         handleDelete={handleDelete}
@@ -110,6 +113,7 @@
         }
 
         ReactDOM.render(<TodoApp />, document.getElementById('root'));
-        </script>
+    </script>
 </body>
+
 </html>
