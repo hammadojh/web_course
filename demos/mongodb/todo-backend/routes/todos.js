@@ -1,6 +1,10 @@
 const express = require('express');
 const router = express.Router();
 const todoController = require('../controllers/todo.controller');
+const auth = require('../middleware/auth');
+
+// Protect all routes
+router.use(auth);
 
 // Get all todos
 router.get('/', todoController.getAllTodos);
