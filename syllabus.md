@@ -17,7 +17,7 @@ This course is designed to provide you with the conceptual and practical knowled
 | Professor           | Office | Email                    | Office Hours   |
 |---------------------|--------|--------------------------|----------------|
 | Dr. Omar Hammad     | 22-329 | omarjh@kfupm.edu.sa      |      MW 12:30-1:30       |
-| Dr. Hasan Al-Kaf    | 22-147 | hasan.alkaf@kfupm.edu.sa |      TBA              |
+| Dr. Hasan Al-Kaf    | 22-147 | hassan.alkaf@kfupm.edu.sa |      TBA              |
 | Dr. Khadijah Al Safwan| 22-330-1 | khadijah.safwan@kfupm.edu.sa |      W 1:00-3:00       |
 
 ### How You Will Be Assessed
@@ -28,6 +28,7 @@ This course is designed to provide you with the conceptual and practical knowled
 - **Final:** 25%
 
 ### How to Get the Most Out of This Class
+- Watch the videos before coming to class.
 - Always be on time (for class and assignment deadlines).
 - Practice, practice, and practice.
 - Pay attention to Blackboard & This repo.
@@ -53,6 +54,7 @@ After completing this course, you should be able to:
 | 10,11,12 | Node.js |
 
 ### Reference Materials
+- Videos 
 - www.zybooks.com
 - Resources referred to during class
 - Demos presented during class 
@@ -60,9 +62,9 @@ After completing this course, you should be able to:
 ### Course Policies & Guidelines
 - **Attendance:** Regular attendance is a university requirement. Attendance will be checked at the beginning of each class. Two late arrivals will be considered as one absence. More than 6 unexcused absences will result in a DN grade.
 - **Blackboard:** Will be used for posting assignments, and grades. Utilize the discussion board by raising or answering questions.
-- **Emails:** Use the format `241-SWE363-[sec_number]` in the "Subject" field of your email. Not following this format may result in a delayed or no response.
+- **Emails:** Use the format `242-SWE363-[sec_number]` in the "Subject" field of your email. Not following this format may result in a delayed or no response.
 - **Makeup Policy:** No makeup for homework, quizzes, or exams unless there is a valid excuse.
 - **Re-grading Policy:** Complaints about grades must be discussed within a week of grade distribution. For final exams, an office hour will be announced on Blackboard.
-- **Project Phases Late Submission:** Late submissions are allowed with a deduction of 0.5 marks per late day.
+- **Project Phases Late Submission:** Late submissions are not allowed unless there is a valid execuse. 
 - **Academic Honesty:** Abide by university regulations on academic honesty. Cheating will result in severe penalties, including an F grade.
 - **Courtesy:** Be courteous to the instructor and classmates. Cell phones must be turned off during class and exams.
