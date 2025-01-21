@@ -45,13 +45,17 @@ After completing this course, you should be able to:
 |Week|Topic|
 |-----|------|
 | 1  | Introduction to Web Programming |
-| 2  | HTML Fundamentals + More HTML | 
-| 3  | CSS Fundamentals + More CSS |
-| 4  | JavaScript Fundamentals |
-| 5  | JavaScript in the Browser|
-| 6  | More JavaScript + Mobile Web Development |
-| 7,8,9 | React |
-| 10,11,12 | Node.js |
+| 2  | HTML Fundamentals | 
+| 3  | HTML Advanced |
+| 4  | CSS Fundamentals + CSS Advanced |
+| 5  | Mobile Web Development |
+| 6  | JavaScript Fundamentals |
+| 7  | JavaScript in the Browser |
+| 8  | JavaScript Advanced Concepts |
+| 9,10  | JavaScript React |
+| 11 | Full-Stack Development Fundamentals|
+| 12 | Full-Stack Development (Data) |
+| 13,14 | Full-Stack Development Advanced Concepts |
 
 ### Reference Materials
 - Videos 
