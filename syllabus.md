@@ -18,7 +18,7 @@ This course is designed to provide you with the conceptual and practical knowled
 |---------------------|--------|--------------------------|----------------|
 | Dr. Omar Hammad     | 22-329 | omarjh@kfupm.edu.sa      |      MW 12:30-1:30       |
 | Dr. Hasan Al-Kaf    | 22-147 | hassan.alkaf@kfupm.edu.sa |      TBA              |
-| Dr. Khadijah Al Safwan| 22-330-1 | khadijah.safwan@kfupm.edu.sa |      W 1:00-3:00       |
+| Dr. Khadijah Al Safwan| 22-330-1 | khadijah.safwan@kfupm.edu.sa |      MW 9:30-10:30       |
 
 ### How You Will Be Assessed
 - **In-Lab Exercises** 25%
@@ -45,13 +45,17 @@ After completing this course, you should be able to:
 |Week|Topic|
 |-----|------|
 | 1  | Introduction to Web Programming |
-| 2  | HTML Fundamentals + More HTML | 
-| 3  | CSS Fundamentals + More CSS |
-| 4  | JavaScript Fundamentals |
-| 5  | JavaScript in the Browser|
-| 6  | More JavaScript + Mobile Web Development |
-| 7,8,9 | React |
-| 10,11,12 | Node.js |
+| 2  | HTML Fundamentals | 
+| 3  | HTML Advanced |
+| 4  | CSS Fundamentals + CSS Advanced |
+| 5  | Mobile Web Development |
+| 6  | JavaScript Fundamentals |
+| 7  | JavaScript in the Browser |
+| 8  | JavaScript Advanced Concepts |
+| 9,10  | JavaScript React |
+| 11 | Full-Stack Development Fundamentals|
+| 12 | Full-Stack Development (Data) |
+| 13,14 | Full-Stack Development Advanced Concepts |
 
 ### Reference Materials
 - Videos 

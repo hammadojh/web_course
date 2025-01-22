@@ -1,4 +1,4 @@
-# SWE 363 - 231 Web App Project
+# SWE 363 - 242 Web App Project
 
 ## Introduction
 
@@ -8,17 +8,16 @@ This project will be conducted in groups comprising 5 students. Each group is ta
 
 ## Phases
 
-| Phase              | Milestone        | Points | Due    | Deliverables                           |
-|--------------------|------------------|--------|--------|----------------------------------------|
-| 1                  | Form a Team      | 1      | Week 2 | Join a group in BB + Fill Contract     |
-| 2                  | Proposal         | 2      | Week 3 | Submit Slides (.ppt)                   |
-| 3                  | Requirements     | 3      | Week 4 | Submit Slides (.ppt)                   |
-| 4                  | UI Design        | 3      | Week 5 | Submit Figma link                      |
-| 5                  | Front_End        | 7      | Week 11 | Push to Github + submit github repo    |
-| 6                  | Back_End         | 7      | Week 13| Push to Github                         |
-| 7                  | Deployment       | 1      | Week 14| Submit Domain link                     |
-| 8                  | Demo             | 3      | Week 15| Submit Youtube link                    |
-| 9                  | Final Report     | 3      | Week 16| Submit Slides (.ppt)                   |
+| Phase              | Milestone                   | Points | Due     | Deliverables                           |
+|--------------------|-----------------------------|--------|---------|----------------------------------------|
+| 1                  | Project Groups and Idea     | 2      | Week 2  | Join a group in BB + Fill Contract     |
+| 2                  | Project Proposal            | 2      | Week 4  | Submit Slides (.ppt)                   |
+| 3                  | Project Requirments         | 2      | Week 6  | Submit Slides (.ppt)                   |
+| 4                  | Project UI Design           | 3      | Week 9  | Submit Figma link                      |
+| 5                  | Project Front_End           | 6      | Week 11 | Push to Github + submit github repo    |
+| 6                  | Project Back_End            | 6      | Week 13 | Push to Github                         |
+| 7                  | Project Deployment          | 1      | Week 14 | Submit Domain link                     |
+| 8                  | Project Documentation       | 3      | Week 15 | Submit Demo and report                 |
 
 ## Project Phases Details
 
@@ -105,22 +104,22 @@ There is no one way to do wireframes, but if they google wireframes, they will f
 - You are free to use any platform.
 - Submit the link of your live website to BB.
 
-### 8. Demo
-- Before you start recording, plan your demo very well (imagine yourself in a conference in front of a large audience).
-- Record a 5 to 7-minute long video showing the different parts of your project.
-- The video should follow a narrative that highlights the core value of your system AND explain the technical part.
-- Upload the video to YouTube and submit a link to blackboard.
-
-### 9. Final Report
-- Submit a report (.pdf) that contains the following:
-  - **Technologies and Tools**: Specify clearly the technologies and tools used in the project (for instance: HTML, CSS, JavaScript, NodeJS, etc.).
-  - **GUI Screen Shots**: Include screenshots of the main screens.
-  - **Source Code**: Snapshot of the important parts of the source code (few pages) to describe the main scenario(s).
-  - **Open source code reusability**: If you have integrated any existing code or used any framework, mention it here clearly.
-  - **Learnings from the project**.
-  - **Limitations of your work**.
-  - **What would you do differently if you had more time**.
-  - **Time-sheet**: A worksheet describing the implementation timeline and the tasks of each team member.
+### 8. Documentation
+- **Demo**
+  - Before you start recording, plan your demo very well (imagine yourself in a conference in front of a large audience).
+  - Record a 5 to 7-minute long video showing the different parts of your project.
+  - The video should follow a narrative that highlights the core value of your system AND explain the technical part.
+  - Upload the video to YouTube and submit a link to blackboard.
+- **Final Report**
+  - Submit a report (.pdf) that contains the following:
+    - **Technologies and Tools**: Specify clearly the technologies and tools used in the project (for instance: HTML, CSS, JavaScript, NodeJS, etc.).
+    - **GUI Screen Shots**: Include screenshots of the main screens.
+    - **Source Code**: Snapshot of the important parts of the source code (few pages) to describe the main scenario(s).
+    - **Open source code reusability**: If you have integrated any existing code or used any framework, mention it here clearly.
+    - **Learnings from the project**.
+    - **Limitations of your work**.
+    - **What would you do differently if you had more time**.
+    - **Time-sheet**: A worksheet describing the implementation timeline and the tasks of each team member.
 
 ## Conclusion
 
