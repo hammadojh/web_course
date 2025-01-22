@@ -30,6 +30,25 @@ A major part of this course is a  project that you (witgh your team) are expecte
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [W3Schools](https://www.w3schools.com/)
 
+# Using an IDE
+During your learning process it is good to disable the autocomplete from any IDE that you are using so that you get the most out of the learning process. Please follow the instruction below in order to disable autocomplete in VSCode. 
+
+1. Open **VS Code**.
+2. Press `Ctrl + Shift + P` (Windows/Linux) or `Cmd + Shift + P` (Mac) to open the **Command Palette**.
+3. Search for **"Preferences: Open Settings (JSON)"** and select it.
+4. Add the following settings:
+
+   ```json
+   {
+     "editor.quickSuggestions": {
+       "other": false,
+       "comments": false,
+       "strings": false
+     },
+     "editor.suggestOnTriggerCharacters": false,
+     "editor.parameterHints.enabled": false
+   }
+
 ## How to Use This Repository
 - **Clone the Repository**: Use `git clone [repository link]` to download the repository to your local machine.
 - **Navigate the Directories**: Explore the folders to access slides, activities, videos, and papers.
