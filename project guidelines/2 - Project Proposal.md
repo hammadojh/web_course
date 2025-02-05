@@ -34,10 +34,12 @@ Your submission must include the following slides:
   - Provide a list of key functionalities each user type can perform (e.g., "Admins can delete user accounts", "Admins can edit the user accounts information", "Users can browse and purchase items", etc.).
   - For each role needs to have `1 x number of people in your team` functionally. For example, if your team consist of 5 people then each role needs to have at leat 5 functionalities. If they are 6 then you must have 6 functionalities for each role.
   - Note: you can review the well-known concept in software engineering, which is **use case**.
-- Storyboard Sketch (Application Wirefeame):
-  - Use figma to build a basic wireframes.
+- Storyboard Sketch (Application wirefeame with context):
+  - Imagine a real use case where your solution will solve a real world problem.
+  - Use figma to build a basic wireframes .
   - At least 5 wireframes of main functionalities are provided. If your team consist of 4 people then provide minimum 4 wireframes, and same goes for 6 people need to provide at least 6 wireframes.
   - It's fine if the initial wireframe doesn't reflect 100% of your final work, but you need to make it as similar as possible.
+  - Put the wireframes in a storyboard (google ux storyboards to see examples) 
 
 ### 3. Submission Guidelines:
 - Upload your PowerPoint file as PDF via Blackboard under the designated submission area.
