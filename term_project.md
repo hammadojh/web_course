@@ -13,9 +13,9 @@ This project will be conducted in groups comprising 5 students. Each group is ta
 | 1                  | Project Groups and Idea     | 2      | Week 2  | Join a group in BB + Fill Contract     |
 | 2                  | Project Proposal            | 2      | Week 4  | Submit Slides (.ppt)                   |
 | 3                  | Project Requirments         | 2      | Week 6  | Submit Slides (.ppt)                   |
-| 4                  | Project UI Design           | 3      | Week 9  | Submit Figma link                      |
-| 5                  | Project Front_End           | 6      | Week 11 | Push to Github + submit github repo    |
-| 6                  | Project Back_End            | 6      | Week 13 | Push to Github                         |
+|~~4~~               | ~~Project UI Design~~       |~~3~~   |~~Week 9~~| ~~Submit Figma link~~                  |~~
+| 5                  | Project Front_End           | 8      | Week 11 | Push to Github + submit github repo    |
+| 6                  | Project Back_End            | 7      | Week 13 | Push to Github                         |
 | 7                  | Project Deployment          | 1      | Week 14 | Submit Domain link                     |
 | 8                  | Project Documentation       | 3      | Week 15 | Submit Demo and report                 |
 
